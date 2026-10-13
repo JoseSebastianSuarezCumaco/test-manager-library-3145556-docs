@@ -69,3 +69,10 @@ En cualquiera de las dos carpetas, en este orden:
 | [`test-manager-library-3145556-page`](https://github.com/code-sena/test-manager-library-3145556-page) | Sitio público estático de presentación |
 | [`test-manager-library-3145556-infra`](https://github.com/code-sena/test-manager-library-3145556-infra) | Contenedores, red, volúmenes y motor de base de datos vacío |
 | [`test-manager-library-3145556-tool`](https://github.com/code-sena/test-manager-library-3145556-tool) | Utilidades: sembrador de datos de demostración |
+
+
+## Author
+
+José Sebastián Suárez Cumaco, GitHub: [JoseSebastianSuarezCumaco](https://github.com/JoseSebastianSuarezCumaco).
+
+This repository is my fork of `code-sena/test-manager-library-3145556-docs`, developed for the SDD technical test of ficha ADSO 3145556. I added the `documentation/` folder with the SDD, TDD and DDD documents; the spec folders are untouched.
